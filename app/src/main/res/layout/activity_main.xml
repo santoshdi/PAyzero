@@ -1218,6 +1218,8 @@ android:layout_marginTop="10dp"
         </androidx.cardview.widget.CardView>
     </GridLayout>
 </LinearLayout>
+                    <include layout="@layout/content_scrolling" />
+
 </ScrollView>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
 
